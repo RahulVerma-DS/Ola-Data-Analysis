@@ -18,7 +18,7 @@ The `Ola_Analysis.sql` script contains 15 targeted queries designed to solve spe
 **Key Analyses Performed:**
 * **Booking Success & Failure:** Retrieved all successful bookings and categorized incomplete rides with their specific reasons.
 * **Vehicle Performance:** Calculated the average ride distance and average customer rating per vehicle type.
-* **Cancellation Analysis:** Counted customer cancellations, identified repeat offenders (customers with >3 cancellations), and tracked driver cancellations due to personal/car-related issues.
+* **Cancellation Analysis:** Counted customer cancellations, identified repeat offenders (customers with >2 cancellations), and tracked driver cancellations due to personal/car-related issues.
 * **Financial Metrics:** Calculated the total booking value for successful rides and identified the most popular payment methods (e.g., UPI).
 * **Geospatial & Time Trends:** Identified the Top 10 Drop and Pickup locations, alongside peak booking hours to analyze high-demand windows.
 * **Driver Metrics:** Evaluated driver ratings, specifically finding the maximum and minimum ratings for Prime Sedan bookings.
