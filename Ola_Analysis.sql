@@ -75,7 +75,7 @@ WHERE Incomplete_Rides = 'Yes';
 
 select * from Incomplete_Rides_Reason;
 
-11.Find customers who cancelled more than 3 rides
+11.Find customers who cancelled more than 2 rides
 SELECT Customer_ID, COUNT(*) as Cancellations
 FROM bookings WHERE Booking_Status = 'Canceled by Customer'
 GROUP BY Customer_ID HAVING Cancellations > 2
