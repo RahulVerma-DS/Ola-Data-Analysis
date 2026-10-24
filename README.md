@@ -43,4 +43,5 @@ The `data.pbix` file contains a dynamic dashboard providing a high-level overvie
 ## ⚙️ How to Use This Repository
 1. **Explore the SQL Queries:** Open the `Ola_Analysis.sql` file to review the database queries and view definitions.
 2. **Interact with the Dashboard:** Download the `data.pbix` file and open it in Power BI Desktop to interact with the visualizations and slicers.
-3. **View the Preview:** Check out `Dashboard_Preview.png` for a quick glance at the final Power BI layout.
+
+
